@@ -26,10 +26,7 @@
 
 ## 🧠 Sobre mim
 
-Sou **Bruno Tolentino**, 23 anos, estudante de **Engenharia de Software**, com foco em **Back-End e Automação**.  
-Tenho interesse em criar soluções que otimizem processos, automatizem tarefas e resolvam problemas reais usando código.
-
-Atualmente estudo **Python**, lógica de programação e conceitos fundamentais de desenvolvimento back-end, buscando minha **primeira oportunidade de estágio** na área.
+Estudante de Engenharia de Software, com foco em desenvolvimento Back-End e automação de processos. Atuo no aprimoramento contínuo de lógica de programação, desenvolvimento de scripts e construção de soluções eficientes e organizadas, utilizando Python e boas práticas de engenharia de software. Tenho interesse em criar sistemas escaláveis, automatizar rotinas e resolver problemas de forma estruturada.
 
 ---
 
