@@ -7,7 +7,7 @@
 <p align="center">
   ⚙️ Desenvolvedor Back-End & Automação <br>
   🎓 Estudante de Engenharia de Software <br>
-  🇧🇷 Brasil
+    Brasil
 </p>
 
 <p align="center">
@@ -40,7 +40,8 @@ Estudante de Engenharia de Software, com foco em desenvolvimento Back-End e auto
 - 🔄 Automação de tarefas
 - 🧠 Lógica de programação
 - 🗃️ Manipulação de dados
-- 🌐 Conceitos de Back-End (em evolução)
+- 🌐 Conceitos de Back-End
+
 
 ---
 
@@ -62,7 +63,7 @@ Estudante de Engenharia de Software, com foco em desenvolvimento Back-End e auto
 - ⚙️ Me especializar em **Back-End**
 - 🐍 Criar projetos práticos em **Python**
 - 🔁 Desenvolver automações úteis
-- 💼 Conquistar meu **primeiro estágio como desenvolvedor**
+- 💼 Evoluir continuamente como desenvolvedor de software
 
 ---
 
