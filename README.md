@@ -45,16 +45,14 @@ Estudante de Engenharia de Software, com foco em desenvolvimento Back-End e auto
 
 ---
 
-## 📊 GitHub em construção 🚧
+## 📊 GitHub 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoTolentinoDev&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+### 🚀 Projeto em Destaque: Financial Statement Analyzer API
+Este projeto automatiza a análise de extratos bancários, utilizando lógica de regras e IA para categorizar despesas de forma inteligente.
 
-<p align="center">
-  <em>Atualmente meu GitHub está em fase inicial.  
-  Em breve, projetos de automação e back-end estarão disponíveis aqui 🚀</em>
-</p>
+* **Tecnologias:** Python, Pandas, FastAPI.
+* **Foco:** Backend e Automação de processos financeiros.
+* **Repositório:** [Acessar Projeto ↗](https://github.com/BrunoTolentinoDev/Financial-Statement-Analyzer-API)
 
 ---
 
