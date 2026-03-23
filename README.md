@@ -5,7 +5,7 @@
 <h1 align="center">Bruno Tolentino</h1>
 
 <p align="center">
-  <strong>Engenheiro de Software em formação | Desenvolvedor Back-End & IA</strong><br>
+  <strong>Graduando em Engenharia de Software (4º Período) | Desenvolvedor Back-End & IA</strong><br>
   Belo Horizonte, Brasil
 </p>
 
@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/brunotolentinoeng">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:brunotolentino.eng@gmail.com">
+  <a href="mailto:brunortolentino@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -22,7 +22,7 @@
 
 ### 🧠 Sobre Mim
 
-Desenvolvedor focado na criação de sistemas escaláveis e automações inteligentes utilizando o ecossistema Python. Atualmente, dedico-me à Engenharia de Software com ênfase em arquitetura Back-End, integração de modelos de IA e otimização de fluxos de dados. Minha abordagem combina lógica estruturada com a busca constante por soluções que reduzam custos operacionais e aumentem a eficiência técnica.
+Sou um desenvolvedor focado na criação de sistemas escaláveis e automações inteligentes utilizando o ecossistema Python. Atualmente cursando Engenharia de Software, possuo vivência prática na concepção de sistemas que utilizam Inteligência Artificial para análise de dados e automação de fluxos operacionais. Minha principal atuação é estruturar ferramentas integradas a modelos de linguagem (LLMs), traduzindo necessidades técnicas em fluxos automatizados para otimizar processos e reduzir erros manuais.
 
 ---
 
@@ -30,24 +30,29 @@ Desenvolvedor focado na criação de sistemas escaláveis e automações intelig
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens & Frameworks** | Python, FastAPI, Pandas |
-| **Inteligência Artificial** | OpenAI API, Prompt Engineering, AI Routing |
+| **Linguagens & Frameworks** | Python, FastAPI, Django, Pandas, JavaScript |
+| **Inteligência Artificial** | Integração de APIs (OpenAI, Claude, Gemini), Agentes de IA, AI Routing |
+| **Automação & Dados** | n8n, Manipulação e Limpeza de Dados, Engenharia de Dados |
 | **Ferramentas & DevOps** | Git, GitHub, Linux, Docker, VS Code |
-| **Bancos de Dados** | SQL, Manipulação de JSON/CSV |
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-#### [Financial Statement Analyzer API](https://github.com/BrunoTolentinoDev/Financial-Statement-Analyzer-API)
-Interface de alta performance para processamento e categorização inteligente de dados financeiros.
-* **Stack:** Python, FastAPI, Pandas.
-* **Destaque:** Implementação de lógica de regras para automação de extratos bancários.
+#### 🌟 [B2B-Data-Cleaner-API](https://github.com/BrunoTolentinoDev/B2B-Data-Cleaner-API)
+API especializada para manipulação, higienização e validação de bases de dados B2B.
+* **Stack:** Python, Pandas, FastAPI.
+* **Destaque:** Foco em data cleaning estruturado, garantindo a integridade dos dados para otimizar análises e integrações sistêmicas seguras.
 
-#### [Caçador de Leads & AI Router](https://github.com/BrunoTolentinoDev)
-Desenvolvimento de automações para prospecção e roteamento dinâmico de requisições em modelos de linguagem.
+#### [Financial Statement Analyzer API](https://github.com/BrunoTolentinoDev/Financial-Statement-Analyzer-API)
+API para processamento de extratos via categorização híbrida com sistemas de fallback e dados estruturados.
+* **Stack:** Python, FastAPI, Pandas, IA.
+* **Destaque:** Implementação combinada de IA com lógica de regras para automação de análise financeira de forma precisa e escalável.
+
+#### [Orquestrador de IA](https://github.com/BrunoTolentinoDev)
+Sistema de roteamento inteligente de prompts para seleção dinâmica de modelos (LLMs).
 * **Stack:** Python, Integrações de API.
-* **Impacto:** Otimização de custos e tempo de resposta em fluxos de IA.
+* **Impacto:** Otimização direta focando no melhor custo-benefício e qualidade de resposta em fluxos que utilizam Inteligência Artificial.
 
 ---
 
@@ -60,5 +65,5 @@ Desenvolvimento de automações para prospecção e roteamento dinâmico de requ
 ---
 
 <p align="center">
-  <i>"A engenharia de software não é apenas sobre escrever código, mas sobre construir sistemas que resolvam problemas reais."</i>
+  <i>"A engenharia de software não é apenas sobre escrever código, mas sobre construir sistemas que resolvam problemas reais de forma eficiente."</i>
 </p>
