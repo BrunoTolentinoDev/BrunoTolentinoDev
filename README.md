@@ -61,7 +61,6 @@ Ferramenta de Inteligência Artificial desenhada para padronização e geração
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BrunoTolentinoDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
-
 ---
 
 <p align="center">
