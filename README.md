@@ -62,13 +62,6 @@ Ferramenta de Inteligência Artificial desenhada para padronização e geração
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoTolentinoDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br>
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunoTolentinoDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTolentinoDev&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" alt="Top Languages" />
-</div>
-
 ---
 
 <div align="center">
