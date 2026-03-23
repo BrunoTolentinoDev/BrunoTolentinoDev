@@ -56,8 +56,6 @@ Ferramenta de Inteligência Artificial desenhada para padronização e geração
 
 ---
 
-### 📊 Atividade no GitHub
-
 ### 📊 Produtividade e Estatísticas
 
 <div align="center">
@@ -68,6 +66,12 @@ Ferramenta de Inteligência Artificial desenhada para padronização e geração
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunoTolentinoDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTolentinoDev&layout=compact&theme=radical&langs_count=6&hide_border=true" alt="Top Languages" />
 </div>
+
+---
+
+<p align="center">
+  <i>"A engenharia de software não é apenas sobre escrever código, mas sobre construir sistemas que resolvam problemas reais de forma eficiente."</i>
+</p>
 
 ---
 
