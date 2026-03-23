@@ -58,9 +58,17 @@ Ferramenta de Inteligência Artificial desenhada para padronização e geração
 
 ### 📊 Atividade no GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoTolentinoDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+### 📊 Produtividade e Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoTolentinoDev&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunoTolentinoDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTolentinoDev&layout=compact&theme=radical&langs_count=6&hide_border=true" alt="Top Languages" />
+</div>
+
 ---
 
 <p align="center">
