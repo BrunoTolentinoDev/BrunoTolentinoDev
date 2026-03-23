@@ -59,22 +59,22 @@ Ferramenta de Inteligência Artificial desenhada para padronização e geração
 ### 📊 Produtividade e Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoTolentinoDev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoTolentinoDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
 <br>
+
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunoTolentinoDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTolentinoDev&layout=compact&theme=radical&langs_count=6&hide_border=true" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunoTolentinoDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTolentinoDev&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-<p align="center">
-  <i>"A engenharia de software não é apenas sobre escrever código, mas sobre construir sistemas que resolvam problemas reais de forma eficiente."</i>
-</p>
+<div align="center">
+  <blockquote>
+    <i>"A engenharia de software não é apenas sobre escrever código, mas sobre construir sistemas que resolvam problemas reais de forma eficiente."</i>
+  </blockquote>
+</div>
 
----
 
-<p align="center">
-  <i>"A engenharia de software não é apenas sobre escrever código, mas sobre construir sistemas que resolvam problemas reais de forma eficiente."</i>
-</p>
