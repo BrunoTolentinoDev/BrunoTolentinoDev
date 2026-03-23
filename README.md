@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brunotolentinoeng">
+  <a href="https://www.linkedin.com/in/brunotolentinoeng" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:brunortolentino@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=brunortolentino@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -44,15 +44,15 @@ API especializada para manipulação, higienização e validação de bases de d
 * **Stack:** Python, Pandas, FastAPI.
 * **Destaque:** Foco em data cleaning estruturado, garantindo a integridade dos dados para otimizar análises e integrações sistêmicas seguras.
 
-#### [Financial Statement Analyzer API](https://github.com/BrunoTolentinoDev/Financial-Statement-Analyzer-API)
-API para processamento de extratos via categorização híbrida com sistemas de fallback e dados estruturados.
-* **Stack:** Python, FastAPI, Pandas, IA.
-* **Destaque:** Implementação combinada de IA com lógica de regras para automação de análise financeira de forma precisa e escalável.
+#### 📈 [SmartCRM](https://github.com/BrunoTolentinoDev/SmartCRM)
+Sistema inteligente para gestão de relacionamento, otimizado para automação de fluxos operacionais e análise de leads.
+* **Stack:** Python, Automação, Integração de APIs.
+* **Destaque:** Estruturação de processos comerciais com redução de tarefas manuais e maior controle de dados em rotinas de prospecção.
 
-#### [Orquestrador de IA](https://github.com/BrunoTolentinoDev)
-Sistema de roteamento inteligente de prompts para seleção dinâmica de modelos (LLMs).
-* **Stack:** Python, Integrações de API.
-* **Impacto:** Otimização direta focando no melhor custo-benefício e qualidade de resposta em fluxos que utilizam Inteligência Artificial.
+#### 🎙️ [My-Brand-Voice-AI](https://github.com/BrunoTolentinoDev/My-Brand-Voice-AI)
+Ferramenta de Inteligência Artificial desenhada para padronização e geração de conteúdo alinhado à identidade da marca.
+* **Stack:** Python, Integrações de LLMs, Prompt Engineering.
+* **Destaque:** Aplicação prática de IA para manter a consistência na comunicação corporativa automatizada e escalar a criação de conteúdo.
 
 ---
 
