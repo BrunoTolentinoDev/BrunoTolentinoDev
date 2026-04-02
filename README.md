@@ -71,7 +71,7 @@ Ferramenta de IA para geração de conteúdo padronizado com identidade de marca
 
 ### 💼 Objetivo
 
-🚀 Em busca de oportunidade como **Backend Developer (Estágio ou Júnior)**, com foco em APIs, automação e Inteligência Artificial.
+🚀 Em busca de oportunidade como **Backend Developer, com foco em APIs, automação e Inteligência Artificial.
 
 ---
 
