@@ -28,7 +28,8 @@ Desenvolvedor focado em backend com Python, atuando na construção de APIs esca
 
 ### 🛠️ Stack Principal
 
-- Python  
+- Python
+- JavaScript
 - FastAPI  
 - PostgreSQL  
 - Pandas  
