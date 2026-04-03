@@ -71,7 +71,7 @@ Ferramenta de IA para geração de conteúdo padronizado com identidade de marca
 
 ### 💼 Objetivo
 
-🚀 Em busca de oportunidade como Backend Developer, com foco em APIs, automação e Inteligência Artificial.
+🚀 Engenheiro de Software com experiência em backend e automação. Entrego soluções robustas que resolvem problemas complexos e geram impacto real.
 
 ---
 
