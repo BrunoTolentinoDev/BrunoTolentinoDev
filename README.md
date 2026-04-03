@@ -49,7 +49,7 @@ API para limpeza, validação e padronização de dados B2B.
 
 ---
 
-#### 🔗 [smart-crm](https://github.com/BrunoTolentinoDev/smart-crm)
+#### 🔗 [smart-crm](https://github.com/BrunoTolentinoDev/SmartCRM)
 Sistema backend para automação de pipeline comercial e gestão de leads.  
 **Stack:** Python, FastAPI, PostgreSQL  
 **Impacto:** aumento de cerca de 10% na geração de leads qualificados.
