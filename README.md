@@ -5,7 +5,7 @@
 <h1 align="center">Bruno Tolentino</h1>
 
 <p align="center">
-  <strong>Backend Developer | Python, FastAPI, APIs escaláveis, automação e IA</strong><br>
+  <strong>Backend Developer focado em Python, APIs escaláveis, automação de dados e integração com Inteligência Artificial.</strong><br>
   Belo Horizonte, Brasil
 </p>
 
@@ -22,7 +22,7 @@
 
 ### 🧠 Sobre Mim
 
-Desenvolvedor focado em backend com Python, atuando na construção de APIs escaláveis e automações com Inteligência Artificial. Experiência em transformar processos manuais em sistemas automatizados, aumentando eficiência e reduzindo falhas operacionais.
+Sou estudante de Engenharia de Software com foco em desenvolvimento backend, APIs e automação de processos orientados a dados. Tenho interesse especial em sistemas escaláveis, integração com modelos de IA e construção de ferramentas que reduzem trabalho manual e aumentam eficiência operacional.
 
 ---
 
@@ -42,35 +42,27 @@ Desenvolvedor focado em backend com Python, atuando na construção de APIs esca
 
 ### 🚀 Projetos em Destaque
 
-#### 🔗 [B2B-Data-Cleaner-API](https://github.com/BrunoTolentinoDev/B2B-Data-Cleaner-API)
+#### 🔗 [b2b-data-cleaner-api](https://github.com/BrunoTolentinoDev/b2b-data-cleaner-api)
 API para limpeza, validação e padronização de dados B2B.  
 **Stack:** Python, FastAPI, Pandas  
-**Impacto:** Redução de inconsistências em bases de dados (até ~30%)
+**Impacto:** redução de inconsistências em bases de dados em até 30%.
 
 ---
 
-#### 🔗 [SmartCRM](https://github.com/BrunoTolentinoDev/SmartCRM)
+#### 🔗 [smart-crm](https://github.com/BrunoTolentinoDev/smart-crm)
 Sistema backend para automação de pipeline comercial e gestão de leads.  
-**Stack:** Python, APIs, Automação  
-**Impacto:** Redução de tarefas manuais e aumento na eficiência do processo comercial  
+**Stack:** Python, FastAPI, PostgreSQL  
+**Impacto:** aumento de cerca de 10% na geração de leads qualificados.
 
 ---
 
-#### 🔗 [AI-Lead-Hunter](https://github.com/BrunoTolentinoDev/AI-Lead-Hunter)
-Sistema automatizado de prospecção utilizando IA.  
+#### 🔗 [ai-lead-hunter](https://github.com/BrunoTolentinoDev/ai-lead-hunter)
+Sistema automatizado de prospecção utilizando Inteligência Artificial.  
 **Stack:** Python, OpenAI API, Claude API, Gemini API  
-**Impacto:** Aumento de ~12% na taxa de resposta em campanhas  
+**Impacto:** aumento de aproximadamente 12% na taxa de resposta em campanhas analisadas.
 
 ---
 
-### 📊 Estatísticas
+### 🎯 Objetivo
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoTolentinoDev&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <i>Construo sistemas que automatizam processos e geram impacto real.</i>
-</div>
+Atuar como Backend Developer ou Software Engineer, contribuindo na construção de sistemas robustos e soluções baseadas em dados.
